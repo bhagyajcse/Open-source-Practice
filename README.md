@@ -114,7 +114,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 
 - For example
   `- [Full Name](https://github.com/your-username)`
-
+  [Bhagyajyoti Kacheri](https://github.com/bhagyajcse)
 **5. Stage your changes:**
 
 ```bash
